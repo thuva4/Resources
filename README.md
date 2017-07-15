@@ -13,9 +13,9 @@
 
 ## C language ##
 
-[back to top](#contents) 
+[back to top](#readme) 
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
 
 ## Tensorflow
-[back to top](#contents)
+[back to top](#readme)
 * [_TensorFlow Neural Machine Translation_](https://github.com/tensorflow/nmt)
