@@ -8,14 +8,17 @@
 ## Contents ##
 
 - [C](#c-language)
-- [Tensorflow](#tensorflow)
-
+- [Machine Learning](#machine-learning)
+  - [Tensorflow](#tensorflow)
+  - [Machine learning pipeline](#machine-learning-pipeline)
 
 ## C language ##
-
 [back to top](#readme) 
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
-
-## Tensorflow
+## Machine Learning ##
 [back to top](#readme)
-* [_TensorFlow Neural Machine Translation_](https://github.com/tensorflow/nmt)
+  ## Tensorflow ##
+  * [_TensorFlow Neural Machine Translation_](https://github.com/tensorflow/nmt)
+  ## Machine learning pipeline
+   * [An end to end tutorial of a machine learning pipeline](https://github.com/Spandan-Madan/DeepLearningProject)
+
