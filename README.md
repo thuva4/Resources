@@ -17,8 +17,8 @@
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
 ## Machine Learning ##
 [back to top](#readme)
-  ## Tensorflow ##
+  ### Tensorflow ###
   * [_TensorFlow Neural Machine Translation_](https://github.com/tensorflow/nmt)
-  ## Machine learning pipeline
+  ### Machine learning pipeline ###
    * [An end to end tutorial of a machine learning pipeline](https://github.com/Spandan-Madan/DeepLearningProject)
 
