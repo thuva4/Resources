@@ -126,7 +126,7 @@
 ## Bitcoin ##
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 
-## Go Language##
+## Go Language ##
 * [Awesome Go](https://github.com/avelino/awesome-go)
 
 ## Bash ##
