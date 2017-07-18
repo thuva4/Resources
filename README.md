@@ -62,7 +62,7 @@
 ## Deep Learning ##
 [back to top](#readme)
   * [Deep Learning papers reading roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-
+  * [Most Cited Deep Learning Papers](https://github.com/songrotek/awesome-deep-learning-papers)
 ## Programming Books ##
 [back to top](#readme)
   * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
