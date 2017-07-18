@@ -29,7 +29,7 @@
 ## Best Practice ##
 [back to top](#readme) 
   ### C++ Language ###
-    * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
 ## Machine Learning ##
 [back to top](#readme)
