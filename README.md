@@ -11,7 +11,7 @@
 - [Machine Learning](#machine-learning)
   - [Tensorflow](#tensorflow)
   - [Machine learning pipeline](#machine-learning-pipeline)
-
+- [Design patterns](#design_patterns)
 ## C language ##
 [back to top](#readme) 
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
@@ -21,4 +21,6 @@
   * [_TensorFlow Neural Machine Translation_](https://github.com/tensorflow/nmt)
   ### Machine learning pipeline ###
    * [An end to end tutorial of a machine learning pipeline](https://github.com/Spandan-Madan/DeepLearningProject)
-
+## Design patterns ##
+[back to top](#readme)
+  * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
