@@ -11,7 +11,7 @@
 - [Machine Learning](#machine-learning)
   - [Tensorflow](#tensorflow)
   - [Machine learning pipeline](#machine-learning-pipeline)
-- [Design Patterns](#design_patterns)
+- [Design Patterns](#design-patterns)
 
 ## C language ##
 [back to top](#readme) 
