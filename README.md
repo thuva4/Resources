@@ -6,15 +6,18 @@
 
 
 ## Contents ##
-
+- [Algorithms](#algorithm)
+- [Android](#android)
 - [C](#c-language)
 - [Best Practice](#best-practice)
+- [DevOps](#devops)
 - [Machine Learning](#machine-learning)
   - [Tensorflow](#tensorflow)
   - [Machine learning pipeline](#machine-learning-pipeline)
   - [Machine learning algorithms](#ml-algorithms)
 - [Design Patterns](#design-patterns)
 - [Python](#python)
+- [Internet Of Things](#iot)
 - [Interview](#interview)
   - [Coding Interview](#coding-interview)
   - [Design Interview](#design-interview)
@@ -26,14 +29,30 @@
 - [Amazon Web Services](#amazon-web-services)
 - [Data Science](#data-science)
 - [Deep Vision](#deep-vision)
+- [Bitcoin](#bitcoin)
+- [Go](#go-language)
+- [Bash](#bash)
+
+## Algorithm ##
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+* [Awesome Challenges](https://github.com/mauriciovieira/awesome-challenges)
+
+
+## Android ##
+* [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness)
+* [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 
 ## C Language ##
 [back to top](#readme) 
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
 ## Best Practice ##
 [back to top](#readme) 
-  ### C++ Language ###
   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+## DevOps ##
+* [Awesome DevOps](https://github.com/joubertredrat/awesome-devops)
+* [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
+* [Awesome Dev Environment](https://github.com/jondot/awesome-devenv)
 
 ## Machine Learning ##
 [back to top](#readme)
@@ -58,7 +77,9 @@
 [back to top](#readme)
   * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Awesome Python](https://github.com/vinta/awesome-python)
-  
+## IOT ##
+* [Awesome IoT](https://github.com/HQarroum/awesome-iot)
+
 ## Interview ##
 [back to top](#readme)
   ### Coding Interview ###
@@ -102,3 +123,11 @@
 * [ Ipython notebooks ](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 
+## Bitcoin ##
+* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
+
+## Go Language##
+* [Awesome Go](https://github.com/avelino/awesome-go)
+
+## Bash ##
+* [A guide to learn bash](https://github.com/Idnan/bash-guide)
