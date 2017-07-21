@@ -135,3 +135,4 @@
 
 ## Student Pack ##
 * [Best student discount services](https://github.com/AdiChat/Best-student-discount-services)
+* [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
