@@ -32,6 +32,7 @@
 - [Bitcoin](#bitcoin)
 - [Go](#go-language)
 - [Bash](#bash)
+- [Student Pack](#student-pack)
 
 ## Algorithm ##
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -131,3 +132,6 @@
 
 ## Bash ##
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
+
+## Student Pack ##
+* [Best student discount services](https://github.com/AdiChat/Best-student-discount-services)
