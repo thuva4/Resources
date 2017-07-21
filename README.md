@@ -33,6 +33,7 @@
 - [Go](#go-language)
 - [Bash](#bash)
 - [Student Pack](#student-pack)
+- [Web development](#web-development)
 
 ## Algorithm ##
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -136,3 +137,6 @@
 ## Student Pack ##
 * [Best student discount services](https://github.com/AdiChat/Best-student-discount-services)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
+
+## Web Developemnt ##
+* [A free visual guide to CSS](http://cssreference.io/)
