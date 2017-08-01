@@ -34,6 +34,7 @@
 - [Bash](#bash)
 - [Student Pack](#student-pack)
 - [Web development](#web-development)
+- [Editors](#editors)
 
 ## Algorithm ##
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -140,3 +141,6 @@
 
 ## Web Developemnt ##
 * [A free visual guide to CSS](http://cssreference.io/)
+
+## Editors ##
+* [Vim tutorials](https://github.com/vim/vim/blob/master/runtime/tutor/tutor)
