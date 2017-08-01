@@ -69,6 +69,7 @@
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
   * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
   * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+  * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
   
   ### Coding Styles ###
   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
