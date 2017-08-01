@@ -229,7 +229,7 @@
 
 ## Web Developemnt ##
 * [A free visual guide to CSS](http://cssreference.io/)
-
+* [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 ## Editors ##
 * [Vim tutorials](https://github.com/vim/vim/blob/master/runtime/tutor/tutor)
 - [Learn VIM from the browser](https://vimtutorplus.herokuapp.com/exercise/1)
