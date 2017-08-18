@@ -1,11 +1,9 @@
 # Tutorials
 
 # Readme 
-
 | Linux | Updated
 | :-: | :-:
 | :penguin: | August 18, 2017
-
 
 ## Contents ## 
 - [Algorithms](#algorithm)
@@ -43,13 +41,11 @@
 - [Git](#git)
 - [SQL](#sql)
 
-
 ## Algorithm ##
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [Awesome Challenges](https://github.com/mauriciovieira/awesome-challenges)
 * [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) 
-
 
 ## Android ##
  [back to top](#readme)
@@ -79,7 +75,21 @@
  * [JS best practices](https://github.com/braziljs/js-the-right-way)
  * [PHP best practices](https://github.com/codeguy/php-the-right-way)
  * [TensorFlow tutorials and best practices](https://github.com/vahidk/EffectiveTensorflow)
-
+ * [Python best practices](https://github.com/kennethreitz/python-guide)
+ * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+ * [Google Style Guides](https://github.com/google/styleguide)
+ * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
+ * [Git Style Guide](https://github.com/agis/git-style-guide)
+ * [React Style guide](https://github.com/styleguidist/react-styleguidist)
+ * [Vue.js Component Style Guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
+ * [Git Commit Message Guide](https://github.com/slashsBin/styleguide-git-commit-message)
+ * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+ * [Style guide & coding conventions for Swift](https://github.com/github/swift-style-guide)
+ * [Swift style guide ](https://github.com/raywenderlich/swift-style-guide)
+ * [SlideShare Swift Style ](https://github.com/SlideShareInc/swift-style-guide)
+ * [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
+ * [Ruby Style Guide](https://github.com/airbnb/ruby)
+ 
   ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
@@ -138,6 +148,7 @@
 * [Best student discount services](https://github.com/AdiChat/Best-student-discount-services)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
 * [Open Source Mentorships](https://github.com/github/mentorships)
+* [A list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
   ### Study plan ###
     #### Software Engineer ####
      * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
@@ -207,7 +218,6 @@
     * [Why You Make Less Money](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
     * [Logic puzzles and riddles](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml)
 
-  
 ## Deep Learning ##
 [back to top](#readme)
   * [Deep Learning papers reading roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
@@ -218,7 +228,6 @@
   * [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
   * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
   
-
 ## Deep Vision ##
 [back to top](#readme)
 * [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -281,7 +290,6 @@
 * [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
-
 
 ## SQL ##
 [back to top](#readme)
