@@ -69,6 +69,16 @@
 ## Best Practice ##
 [back to top](#readme)
 * [Best practices in Android](https://github.com/futurice/android-best-practices)
+* [Programming Best Practices](https://github.com/timoxley/best-practices)
+* [A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines)
+* [iOS Good Practices](https://github.com/futurice/ios-good-practices)
+* [Best practices for developing Windows apps](https://github.com/futurice/windows-app-development-best-practices)
+* [Best practices for modern web development](https://github.com/google/WebFundamentals)
+* [Backend development best practices](https://github.com/futurice/backend-best-practices)
+* [HTML, CSS and JS best practices](https://github.com/bendc/frontend-guidelines)
+* [JS best practices](https://github.com/braziljs/js-the-right-way)
+* [PHP best practices](https://github.com/codeguy/php-the-right-way)
+* [TensorFlow tutorials and best practices](https://github.com/vahidk/EffectiveTensorflow)
   ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
@@ -244,6 +254,7 @@
 [back to top](#readme)
 * [A free visual guide to CSS](http://cssreference.io/)
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 ## Editors ##
 [back to top](#readme)
