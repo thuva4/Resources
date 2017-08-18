@@ -67,7 +67,8 @@
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 
 ## Best Practice ##
-[back to top](#readme) 
+[back to top](#readme)
+* [Best practices in Android](https://github.com/futurice/android-best-practices)
   ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
