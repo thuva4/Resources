@@ -52,7 +52,7 @@
 
 
 ## Android ##
-[back to top](#readme)
+ [back to top](#readme)
 * [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness)
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 
@@ -68,17 +68,18 @@
 
 ## Best Practice ##
 [back to top](#readme)
-* [Best practices in Android](https://github.com/futurice/android-best-practices)
-* [Programming Best Practices](https://github.com/timoxley/best-practices)
-* [A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines)
-* [iOS Good Practices](https://github.com/futurice/ios-good-practices)
-* [Best practices for developing Windows apps](https://github.com/futurice/windows-app-development-best-practices)
-* [Best practices for modern web development](https://github.com/google/WebFundamentals)
-* [Backend development best practices](https://github.com/futurice/backend-best-practices)
-* [HTML, CSS and JS best practices](https://github.com/bendc/frontend-guidelines)
-* [JS best practices](https://github.com/braziljs/js-the-right-way)
-* [PHP best practices](https://github.com/codeguy/php-the-right-way)
-* [TensorFlow tutorials and best practices](https://github.com/vahidk/EffectiveTensorflow)
+ * [Best practices in Android](https://github.com/futurice/android-best-practices)
+ * [Programming Best Practices](https://github.com/timoxley/best-practices)
+ * [A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines)
+ * [iOS Good Practices](https://github.com/futurice/ios-good-practices)
+ * [Best practices for developing Windows apps](https://github.com/futurice/windows-app-development-best-practices)
+ * [Best practices for modern web development](https://github.com/google/WebFundamentals)
+ * [Backend development best practices](https://github.com/futurice/backend-best-practices)
+ * [HTML, CSS and JS best practices](https://github.com/bendc/frontend-guidelines)
+ * [JS best practices](https://github.com/braziljs/js-the-right-way)
+ * [PHP best practices](https://github.com/codeguy/php-the-right-way)
+ * [TensorFlow tutorials and best practices](https://github.com/vahidk/EffectiveTensorflow)
+
   ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
@@ -87,7 +88,7 @@
   * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
   
   ### Coding Styles ###
-[back to top](#readme)
+  [back to top](#readme)
   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
   * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) 
