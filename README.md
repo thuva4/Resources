@@ -14,16 +14,13 @@
   - [Coding Styles](#coding-styles)
 - [DevOps](#devops)
 - [Machine Learning](#machine-learning)
-  - [Tensorflow](#tensorflow)
-  - [Machine learning pipeline](#machine-learning-pipeline)
-  - [Machine learning algorithms](#ml-algorithms)
 - [Python](#python)
 - [Internet Of Things](#iot)
 - [Student Pack](#student-pack)
   - [Study plan](#study-plan)
   - [Interview](#interview)
-   - [Coding Interview](#coding-interview)
-   - [Design Interview](#design-interview)
+    - [Coding Interview](#coding-interview)
+    - [Design Interview](#design-interview)
 - [Deep Learning](#deep-learning)
 - [Programming Books](#programming-books)
 - [Amazon Web Services](#amazon-web-services)
@@ -45,6 +42,13 @@
 * [Awesome Challenges](https://github.com/mauriciovieira/awesome-challenges)
 * [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) 
 * [Mega Project List](https://github.com/karan/Projects)
+* [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+* [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+* [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
+* [All Algorithms implemented in C](https://github.com/TheAlgorithms/C)
+* [All Algorithms implemented in C++](https://github.com/TheAlgorithms/C-Plus-Plus)
+* [Algorithms and data structures in Swift](https://github.com/raywenderlich/swift-algorithm-club)
+
 
 ## Android ##
  [back to top](#readme)
@@ -122,19 +126,13 @@
 
 ## Machine Learning ##
 [back to top](#readme)
-  ### Tensorflow ###
   * [_TensorFlow Neural Machine Translation_](https://github.com/tensorflow/nmt)
   * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow#awesome-tensorflow)
   * [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-  
-  ### Machine learning pipeline ###
-   * [An end to end tutorial of a machine learning pipeline](https://github.com/Spandan-Madan/DeepLearningProject)
-   
-  ### ML Algorithms ###
-   * [Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
-  
-  ### Tutorials ###
+  * [An end to end tutorial of a machine learning pipeline](https://github.com/Spandan-Madan/DeepLearningProject)
+  * [Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
   * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+  * [Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
   
 ## Python ##
 [back to top](#readme)
