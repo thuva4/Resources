@@ -1,4 +1,4 @@
-# Tutorials
+# Resources
 
 # Readme 
 | Linux | Updated
@@ -54,6 +54,7 @@
  [back to top](#readme)
 * [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness)
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 ## C Language ## 
   [back to top](#readme) 
