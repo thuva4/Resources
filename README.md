@@ -55,6 +55,7 @@
 * [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness)
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+* [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
 
 ## C Language ## 
   [back to top](#readme) 
