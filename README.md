@@ -22,7 +22,7 @@
     - [Coding Interview](#coding-interview)
     - [Design Interview](#design-interview)
 - [Deep Learning](#deep-learning)
-- [Programming Books](#programming-books)
+- [Programmer](#programmer)
 - [Amazon Web Services](#amazon-web-services)
 - [Data Science](#data-science)
 - [Deep Vision](#deep-vision)
@@ -238,9 +238,10 @@
 [back to top](#readme)
 * [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
 
-## Programming Books ##
+## Programmer ##
 [back to top](#readme)
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
+* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 ## Amazon Web Services ##
 [back to top](#readme)
 * [ Amazon Web Services — a practical guide ](https://github.com/open-guides/og-aws)
