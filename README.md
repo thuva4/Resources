@@ -3,7 +3,7 @@
 # Readme 
 | Linux | Updated
 | :-: | :-:
-| :penguin: | August 18, 2017
+| :penguin: | September 9, 2017
 
 ## Contents ## 
 - [Algorithms](#algorithm)
@@ -271,6 +271,7 @@
 * [A free visual guide to CSS](http://cssreference.io/)
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+* [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
 
 ## Editors ##
 [back to top](#readme)
