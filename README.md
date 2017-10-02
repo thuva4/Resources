@@ -233,6 +233,7 @@
 * [Deep Learning Tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
 * [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
+* [Artificial Neural Network in Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
   
 ## Deep Vision ##
 [back to top](#readme)
