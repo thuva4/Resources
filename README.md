@@ -273,6 +273,11 @@
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
+* [Django For Beginners](https://djangoforbeginners.com/)
+
+### Vue.js ###
+* [Awesome Vue](https://github.com/vuejs/awesome-vue)
+* [Building a To-Do App with Vue.js 2](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
 
 ## Editors ##
 [back to top](#readme)
