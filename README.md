@@ -288,6 +288,7 @@
 * [Learning the shell.](http://linuxcommand.org)
 * [Linux Journey](https://linuxjourney.com) 
 * [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) 
+* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 
 * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 
 ## Unix ##
