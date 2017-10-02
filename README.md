@@ -16,6 +16,7 @@
 - [Machine Learning](#machine-learning)
 - [Python](#python)
 - [Internet Of Things](#iot)
+- [Ruby on Rails](#ruby-on-rails)
 - [Student Pack](#student-pack)
   - [Study plan](#study-plan)
   - [Interview](#interview)
@@ -34,6 +35,7 @@
 - [Linux](#linux)
 - [Unix](#unix)
 - [Git](#git)
+- [Markdown](#markdown)
 - [SQL](#sql)
 
 ## Algorithm ##
@@ -66,6 +68,7 @@
 * [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html)
 * [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) 
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+* [All about C++](http://www.cplusplus.com/)
 
 ## Best Practice ##
 [back to top](#readme)
@@ -143,6 +146,10 @@
   
 ## IOT ##
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot)
+
+## Ruby on Rails ##
+[back to top](#readme)
+  * [Rails Tutorial](https://www.railstutorial.org/book)
 
 ## Student Pack ##
 [back to top](#readme)
@@ -270,6 +277,7 @@
 ## Web development ##
 [back to top](#readme)
 * [A free visual guide to CSS](http://cssreference.io/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
@@ -298,6 +306,10 @@
 * [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Markdown ##
+[back to top](#readme)
+* [Markcown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## SQL ##
 [back to top](#readme)
