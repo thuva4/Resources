@@ -35,7 +35,7 @@
 - [Unix](#unix)
 - [Git](#git)
 - [SQL](#sql)
-
+- [JavaScript](#JavaScript)
 ## Algorithm ##
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -135,6 +135,10 @@
   * [Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
   * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
   * [Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
+  * [CS229 Machine-Learning(stanford)](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+  * [Kaggle - Your Home for Data Science](https://www.kaggle.com/)
+  * [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+  * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
   
 ## Python ##
 [back to top](#readme)
@@ -304,4 +308,10 @@
 * [MySQL Tutorials](http://www.mysqltutorial.org)
 * [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 * [A very good SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+
+## JavaScript ##
+[back to top](#readme)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript30](https://github.com/wesbos/JavaScript30)
+* [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 
