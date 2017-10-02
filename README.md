@@ -150,6 +150,7 @@
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
 * [Open Source Mentorships](https://github.com/github/mentorships)
 * [A list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
+* [Github Student Pack](https://education.github.com/pack)
 
 ### Study plan ###
 * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
@@ -253,6 +254,7 @@
 * [A curated list of data science blogs ](https://github.com/rushter/data-science-blogs)
 * [ Ipython notebooks ](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
 
 ## Bitcoin ##
 [back to top](#readme)
@@ -298,6 +300,7 @@
 * [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+* [Git Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/atlassian-git-cheatsheet.pdf)
 
 ## SQL ##
 [back to top](#readme)
