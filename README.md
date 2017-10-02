@@ -295,9 +295,12 @@
 
 ## Git ##
 [back to top](#readme)
+* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+* [Git Explained: For Beginners](https://juristr.com/blog/2013/04/git-explained/)
 * [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+* [How to Undo Almost Anything With Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 ## SQL ##
 [back to top](#readme)
