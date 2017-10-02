@@ -66,6 +66,7 @@
 * [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html)
 * [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) 
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+* [Head First C](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf)
 
 ## Best Practice ##
 [back to top](#readme)
@@ -237,6 +238,7 @@
 * [Deep Learning Tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
 * [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
+* [Deep Learning Book](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/)
   
 ## Deep Vision ##
 [back to top](#readme)
@@ -276,6 +278,7 @@
 * [A free visual guide to CSS](http://cssreference.io/)
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+* [Head First Web Design](http://www.headfirstlabs.com/books/hfwd/)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
 
 ## Editors ##
@@ -309,6 +312,7 @@
 * [MySQL Tutorials](http://www.mysqltutorial.org)
 * [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 * [A very good SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+* [Head first SQL](http://index-of.es/Ruby/Head%20First%20SQL%20your%20brain%20on%20SQL%20a%20Learners%20Guide.pdf)
 
 ## JavaScript ##
 [back to top](#readme)
