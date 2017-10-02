@@ -30,6 +30,7 @@
 - [Go](#go-language)
 - [Bash](#bash)
 - [Web development](#web-development)
+  - [Vue.js](#vuejs)
 - [Editors](#editors)
 - [Linux](#linux)
 - [Unix](#unix)
