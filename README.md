@@ -1,4 +1,4 @@
-# Resources
+﻿# Resources
 
 # Readme 
 | Linux | Updated
@@ -253,7 +253,9 @@
 * [A curated list of data science blogs ](https://github.com/rushter/data-science-blogs)
 * [ Ipython notebooks ](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-
+* [Data Camp](https://www.datacamp.com/home)
+* [Flowing Data](http://flowingdata.com)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
 ## Bitcoin ##
 [back to top](#readme)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
