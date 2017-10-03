@@ -369,3 +369,22 @@
 * [JavaScript30](https://github.com/wesbos/JavaScript30)
 * [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 
+## Powershell ##
+[back to top](#readme)
+
+### Tutorials ###
+* [Building a PowerShell module](http://ramblingcookiemonster.github.io/Building-A-PowerShell-Module/)
+* [A Simple Release Pipeline for PowerShell Modules](https://mattmcnabb.github.io/appveyor-ci-plaster)
+* [Using PowerShell and oAuth](https://foxdeploy.com/2015/11/02/using-powershell-and-oauth/)
+* [Github-Pester-AppVeyor](http://ramblingcookiemonster.github.io/GitHub-Pester-AppVeyor/)
+* [Github-Pester-AppVeyor pt.2](http://ramblingcookiemonster.github.io/Github-Pester-AppVeyor-Part-2/)
+* [Adventures in Plaster](https://kevinmarquette.github.io/2017-05-12-Powershell-Plaster-adventures-in/)
+* [Working With Plaster](http://overpoweredshell.com/Working-with-Plaster/)
+* [Let's build the CI/CD pipeline for a new module](https://kevinmarquette.github.io/2017-01-21-powershell-module-continious-delivery-pipeline/)
+### Platform ###
+* [Powershell Gallery](https://www.powershellgallery.com/)
+
+### Modules ###
+* [Pester - PowerShell unit testing framework](https://github.com/pester/Pester/wiki/Pester)
+* [platyPS - Write PowerShell External Help in Markdown](https://github.com/PowerShell/platyPS)
+* [Plaster - Powershell template-based file and project generator](https://github.com/PowerShell/Plaster)
