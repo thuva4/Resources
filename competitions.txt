@@ -1,0 +1,7 @@
+// This is about exciting competitions to take part in.
+
+1. https://hacktoberfest.digitalocean.com/
+2. https://developers.google.com/open-source/gci/
+3. https://summerofcode.withgoogle.com/
+4. https://code.google.com/codejam/
+5. https://doodles.google.com/d4g/

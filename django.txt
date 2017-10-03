@@ -1,0 +1,3 @@
+//One of the best link to learn Django while creating a poll app.
+
+https://docs.djangoproject.com/en/1.11/intro/tutorial01/
