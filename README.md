@@ -295,6 +295,7 @@
 ## Bitcoin ##
 [back to top](#readme)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
+* [docker-minergate-cli](https://github.com/ahmadbasir/Resources.git)
 
 ## Go Language ##
 [back to top](#readme)
