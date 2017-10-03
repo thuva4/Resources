@@ -1,4 +1,4 @@
-# Resources
+﻿# Resources
 
 # Readme 
 | Linux | Updated
@@ -37,7 +37,7 @@
 - [Git](#git)
 - [Markdown](#markdown)
 - [SQL](#sql)
-
+- [JavaScript](#JavaScript)
 ## Algorithm ##
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -69,6 +69,7 @@
 * [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) 
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 * [All about C++](http://www.cplusplus.com/)
+* [Head First C](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf)
 
 ## Best Practice ##
 [back to top](#readme)
@@ -138,6 +139,10 @@
   * [Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
   * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
   * [Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
+  * [CS229 Machine-Learning(stanford)](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+  * [Kaggle - Your Home for Data Science](https://www.kaggle.com/)
+  * [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+  * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
   
 ## Python ##
 [back to top](#readme)
@@ -157,6 +162,7 @@
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
 * [Open Source Mentorships](https://github.com/github/mentorships)
 * [A list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
+* [Github Student Pack](https://education.github.com/pack)
 
 ### Study plan ###
 * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
@@ -240,6 +246,7 @@
 * [Deep Learning Tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
 * [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
+* [Deep Learning Book](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/)
   
 ## Deep Vision ##
 [back to top](#readme)
@@ -261,6 +268,11 @@
 * [ Ipython notebooks ](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 
+* [Data Camp](https://www.datacamp.com/home)
+* [Flowing Data](http://flowingdata.com)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
+* [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
+
 ## Bitcoin ##
 [back to top](#readme)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
@@ -280,7 +292,11 @@
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+* [Head First Web Design](http://www.headfirstlabs.com/books/hfwd/)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
+* [How to mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
+* [Beginners guide to css-selectors](https://css-tricks.com/how-css-selectors-work)
+* [Roadmap to becoming a web developer, what do I need to know?](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 
 ## Editors ##
 [back to top](#readme)
@@ -292,6 +308,7 @@
 * [Learning the shell.](http://linuxcommand.org)
 * [Linux Journey](https://linuxjourney.com) 
 * [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) 
+* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 
 * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 
 ## Unix ##
@@ -303,9 +320,14 @@
 
 ## Git ##
 [back to top](#readme)
+* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+* [Git Explained: For Beginners](https://juristr.com/blog/2013/04/git-explained/)
 * [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+* [How to Undo Almost Anything With Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+* [Git Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/atlassian-git-cheatsheet.pdf)
+
 
 ## Markdown ##
 [back to top](#readme)
@@ -316,4 +338,11 @@
 * [MySQL Tutorials](http://www.mysqltutorial.org)
 * [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 * [A very good SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+* [Head first SQL](http://index-of.es/Ruby/Head%20First%20SQL%20your%20brain%20on%20SQL%20a%20Learners%20Guide.pdf)
+
+## JavaScript ##
+[back to top](#readme)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript30](https://github.com/wesbos/JavaScript30)
+* [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 
