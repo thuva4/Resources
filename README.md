@@ -61,6 +61,9 @@
 * [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
 * [Android Developers Backstage Podcast](http://androidbackstage.blogspot.com/)
 * [Fragmented Podcast](http://fragmentedpodcast.com/)
+* [Fresco](https://github.com/facebook/fresco)
+* [Volley](https://developer.android.com/training/volley/index.html)
+* [Firebase Sample Codes](https://github.com/firebase)
 
 ## C Language ## 
   [back to top](#readme) 
