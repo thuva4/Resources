@@ -166,6 +166,7 @@
   * [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
   * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+  * [MITx - 6.00.1x - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
   
 ## IOT ##
