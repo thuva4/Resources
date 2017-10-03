@@ -59,6 +59,8 @@
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 * [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
+* [Android Developers Backstage Podcast](http://androidbackstage.blogspot.com/)
+* [Fragmented Podcast](http://fragmentedpodcast.com/)
 
 ## C Language ## 
   [back to top](#readme) 
