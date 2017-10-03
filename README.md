@@ -293,6 +293,10 @@
 * [Flowing Data](http://flowingdata.com)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
 * [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
+* [Data Visualization with JavaScript](http://jsdatav.is/intro.html)
+* [Frontiers in Massive Data Analysis](https://www.nap.edu/read/18374/chapter/1)
+* [The Open-Source Data Science Masters](http://datasciencemasters.org/)
+* [Data Skeptic - Podcast](https://dataskeptic.com/)
 
 ## Blockchain Technology ##
 [back to top](#readme)
