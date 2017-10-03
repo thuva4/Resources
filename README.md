@@ -29,6 +29,7 @@
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
+- [Powershell](#powershell)
 - [Programmer](#programmer)
 - [Python](#python)
 - [Ruby on Rails](#ruby-on-rails)
