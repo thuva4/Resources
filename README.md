@@ -275,6 +275,9 @@
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
+* [How to mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
+* [Beginners guide to css-selectors](https://css-tricks.com/how-css-selectors-work)
+* [Roadmap to becoming a web developer, what do I need to know?](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 
 ## Editors ##
 [back to top](#readme)
