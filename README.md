@@ -68,6 +68,10 @@
 * [Fresco](https://github.com/facebook/fresco)
 * [Volley](https://developer.android.com/training/volley/index.html)
 * [Firebase Sample Codes](https://github.com/firebase)
+* [ExoPlayer](https://github.com/google/ExoPlayer)
+* [Small and Extensible Logger - Timber](https://github.com/JakeWharton/timber)
+* [Debugging platform for Android - Stetho](https://code.facebook.com/posts/393927910787513/stetho-a-new-debugging-platform-for-android/)
+* [Publish - Subscriber Style - EventBus](https://github.com/google/guava/wiki/EventBusExplained)
 
 ## C Language ## 
   [back to top](#readme) 
