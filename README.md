@@ -15,8 +15,9 @@
 - [Best Practice](#best-practice)
   - [Design Patterns](#design-patterns)
   - [Coding Styles](#coding-styles)
-- [Bitcoin](#bitcoin)
+- [Blockchain Technology](#blockchain-technology)
 - [C](#c-language)
+- [Computer Graphics](#compueter-graphics)
 - [Deep Learning](#deep-learning)
 - [Data Science](#data-science)
 - [Deep Vision](#deep-vision)
@@ -25,7 +26,7 @@
 - [Git](#git)
 - [Go](#go-language)
 - [Internet Of Things](#iot)
-- [JavaScript](#JavaScript)
+- [JavaScript](#javascript)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
@@ -168,6 +169,7 @@
 
   
 ## IOT ##
+[back to top](#readme)
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
 ## Ruby on Rails ##
@@ -193,6 +195,7 @@
 
 #### Coding Interview ####
 * [A complete computer science study plan](https://github.com/jwasham/coding-interview-university#did-i-get-the-job)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 #### Design Interview ####
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
@@ -275,6 +278,7 @@
 [back to top](#readme)
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+
 ## Amazon Web Services ##
 [back to top](#readme)
 * [ Amazon Web Services — a practical guide ](https://github.com/open-guides/og-aws)
@@ -282,20 +286,20 @@
 
 ## Data Science ##
 [back to top](#readme)
-
-* [A curated list of data science blogs ](https://github.com/rushter/data-science-blogs)
-* [ Ipython notebooks ](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
+* [Ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-
 * [Data Camp](https://www.datacamp.com/home)
 * [Flowing Data](http://flowingdata.com)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
 * [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
 
-## Bitcoin ##
+## Blockchain Technology ##
 [back to top](#readme)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 * [docker-minergate-cli](https://github.com/ahmadbasir/Resources.git)
+* How does the Blockchain Work? [Part 1](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093) [Part 2](https://medium.com/blockchain-review/blockchain-essentials-for-dummies-ba2d8851f1ca) [Part 3](https://medium.com/blockchain-review/what-blockchain-should-we-use-6ba9cca8df22) [Part 4](https://medium.com/blockchain-review/the-difference-between-a-private-public-consortium-blockchain-799ae7f022bc)
+* [Bits on blocks | Thoughts on blockchain technology](https://bitsonblocks.net/)
 
 ## Go Language ##
 [back to top](#readme)
@@ -326,7 +330,7 @@
 ## Editors ##
 [back to top](#readme)
 * [Vim tutorials](https://github.com/vim/vim/blob/master/runtime/tutor/tutor)
-- [Learn VIM from the browser](https://vimtutorplus.herokuapp.com/exercise/1)
+* [Learn VIM from the browser](https://vimtutorplus.herokuapp.com/exercise/1)
 
 ## Linux ##
 [back to top](#readme)
@@ -390,3 +394,8 @@
 * [Pester - PowerShell unit testing framework](https://github.com/pester/Pester/wiki/Pester)
 * [platyPS - Write PowerShell External Help in Markdown](https://github.com/PowerShell/platyPS)
 * [Plaster - Powershell template-based file and project generator](https://github.com/PowerShell/Plaster)
+
+## Computer Graphics ##
+[back to top](#readme)
+* [CS184 Computer Graphics](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
+* [CS537 Interactive Computer Graphics](https://www.cs.drexel.edu/~david/Classes/ICG/)
