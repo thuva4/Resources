@@ -150,6 +150,7 @@
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
 * [Open Source Mentorships](https://github.com/github/mentorships)
 * [A list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
+* [Github Student Pack](https://education.github.com/pack)
 
 ### Study plan ###
 * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
@@ -253,9 +254,12 @@
 * [A curated list of data science blogs ](https://github.com/rushter/data-science-blogs)
 * [ Ipython notebooks ](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+
 * [Data Camp](https://www.datacamp.com/home)
 * [Flowing Data](http://flowingdata.com)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
+* [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
+
 ## Bitcoin ##
 [back to top](#readme)
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
@@ -275,6 +279,9 @@
 * [Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
+* [How to mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
+* [Beginners guide to css-selectors](https://css-tricks.com/how-css-selectors-work)
+* [Roadmap to becoming a web developer, what do I need to know?](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 
 ## Editors ##
 [back to top](#readme)
@@ -300,6 +307,7 @@
 * [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
+* [Git Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/atlassian-git-cheatsheet.pdf)
 
 ## SQL ##
 [back to top](#readme)
