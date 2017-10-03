@@ -31,6 +31,7 @@
 - [Go](#go-language)
 - [Bash](#bash)
 - [Web development](#web-development)
+  - [Vue.js](#vuejs)
 - [Editors](#editors)
 - [Linux](#linux)
 - [Unix](#unix)
@@ -294,6 +295,11 @@
 * [ES2015 [ES6] cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [Head First Web Design](http://www.headfirstlabs.com/books/hfwd/)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
+* [Django For Beginners](https://djangoforbeginners.com/)
+
+### Vue.js ###
+* [Awesome Vue](https://github.com/vuejs/awesome-vue)
+* [Building a To-Do App with Vue.js 2](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
 * [How to mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
 * [Beginners guide to css-selectors](https://css-tricks.com/how-css-selectors-work)
 * [Roadmap to becoming a web developer, what do I need to know?](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
