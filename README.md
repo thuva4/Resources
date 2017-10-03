@@ -1,44 +1,48 @@
 ﻿# Resources
 
 # Readme 
-| Linux | Updated
+| Python | Updated
 | :-: | :-:
+| :snake: | October 2, 2017
+| **Linux** | **Updated**
 | :penguin: | September 9, 2017
 
 ## Contents ## 
 - [Algorithms](#algorithm)
+- [Amazon Web Services](#amazon-web-services)
 - [Android](#android)
-- [C](#c-language)
+- [Bash](#bash)
 - [Best Practice](#best-practice)
   - [Design Patterns](#design-patterns)
   - [Coding Styles](#coding-styles)
+- [Bitcoin](#bitcoin)
+- [C](#c-language)
+- [Deep Learning](#deep-learning)
+- [Data Science](#data-science)
+- [Deep Vision](#deep-vision)
 - [DevOps](#devops)
-- [Machine Learning](#machine-learning)
-- [Python](#python)
+- [Editors](#editors)
+- [Git](#git)
+- [Go](#go-language)
 - [Internet Of Things](#iot)
+- [JavaScript](#JavaScript)
+- [Linux](#linux)
+- [Machine Learning](#machine-learning)
+- [Markdown](#markdown)
+- [Programmer](#programmer)
+- [Python](#python)
 - [Ruby on Rails](#ruby-on-rails)
+- [SQL](#sql)
 - [Student Pack](#student-pack)
   - [Study plan](#study-plan)
   - [Interview](#interview)
     - [Coding Interview](#coding-interview)
     - [Design Interview](#design-interview)
-- [Deep Learning](#deep-learning)
-- [Programmer](#programmer)
-- [Amazon Web Services](#amazon-web-services)
-- [Data Science](#data-science)
-- [Deep Vision](#deep-vision)
-- [Bitcoin](#bitcoin)
-- [Go](#go-language)
-- [Bash](#bash)
+- [Unix](#unix)
 - [Web development](#web-development)
   - [Vue.js](#vuejs)
-- [Editors](#editors)
-- [Linux](#linux)
-- [Unix](#unix)
-- [Git](#git)
-- [Markdown](#markdown)
-- [SQL](#sql)
-- [JavaScript](#JavaScript)
+
+
 ## Algorithm ##
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -107,14 +111,14 @@
  * [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
 
  
-  ### Design Patterns ###
+### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
   * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
   * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
   * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
   
-  ### Coding Styles ###
+### Coding Styles ###
   [back to top](#readme)
   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
@@ -152,8 +156,11 @@
   
 ## Python ##
 [back to top](#readme)
-  * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Awesome Python](https://github.com/vinta/awesome-python)
+  * [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+  * [Python Guide](http://docs.python-guide.org/en/latest/)
+  * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+
   
 ## IOT ##
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot)
