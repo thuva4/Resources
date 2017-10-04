@@ -172,6 +172,17 @@
 * [Flowing Data](http://flowingdata.com)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
 * [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
+* [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
+* [Ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Data Camp](https://www.datacamp.com/home)
+* [Flowing Data](http://flowingdata.com)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
+* [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
+* [Data Visualization with JavaScript](http://jsdatav.is/intro.html)
+* [Frontiers in Massive Data Analysis](https://www.nap.edu/read/18374/chapter/1)
+* [The Open-Source Data Science Masters](http://datasciencemasters.org/)
+* [Data Skeptic - Podcast](https://dataskeptic.com/)
 
 ## Deep Learning ##
 [back to top](#readme)
@@ -189,14 +200,13 @@
 [back to top](#readme)
 
 
+
 ## DevOps ##
 [back to top](#readme)
 * [Awesome DevOps](https://github.com/joubertredrat/awesome-devops)
 * [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 * [Awesome Dev Environment](https://github.com/jondot/awesome-devenv)
 * [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci)
-
-
 
 ## Editors ##
 [back to top](#readme)
@@ -358,6 +368,7 @@
 ## Ruby on Rails ##
 [back to top](#readme)
   * [Rails Tutorial](https://www.railstutorial.org/book)
+
 
 ## SQL ##
 [back to top](#readme)
