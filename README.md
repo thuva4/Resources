@@ -385,6 +385,7 @@
 ## Ruby on Rails ##
 [back to top](#readme)
   * [Rails Tutorial](https://www.railstutorial.org/book)
+  * [Rails for Zombies](http://railsforzombies.org/)
 
 
 ## SQL ##
