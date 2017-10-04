@@ -1,13 +1,13 @@
 ﻿# Resources
 
-# Readme 
+# Readme
 | Python | Updated
 | :-: | :-:
 | :snake: | October 2, 2017
 | **Linux** | **Updated**
 | :penguin: | September 9, 2017
 
-## Contents ## 
+## Contents ##
 - [Algorithms](#algorithm)
 - [Amazon Web Services](#amazon-web-services)
 - [Android](#android)
@@ -49,7 +49,7 @@
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [Awesome Challenges](https://github.com/mauriciovieira/awesome-challenges)
-* [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) 
+* [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp)
 * [Mega Project List](https://github.com/karan/Projects)
 * [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
@@ -75,14 +75,14 @@
 * [Debugging platform for Android - Stetho](https://code.facebook.com/posts/393927910787513/stetho-a-new-debugging-platform-for-android/)
 * [Publish - Subscriber Style - EventBus](https://github.com/google/guava/wiki/EventBusExplained)
 
-## C Language ## 
-  [back to top](#readme) 
+## C Language ##
+  [back to top](#readme)
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
 * [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 * [C programming language Frequently Asked Questions](http://c-faq.com/index.html)
 * [Deep C](https://www.slideshare.net/olvemaudal/deep-c)
 * [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html)
-* [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) 
+* [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 * [All about C++](http://www.cplusplus.com/)
 * [Head First C](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf)
@@ -116,29 +116,29 @@
  * [Ruby Style Guide](https://github.com/airbnb/ruby)
  * [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
 
- 
+
 ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
   * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
   * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
   * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
-  
+
 ### Coding Styles ###
   [back to top](#readme)
   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
-  * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) 
+  * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby)
   * [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
   * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1)
-  * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) 
+  * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml)
   * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
-  * [Good C programming habits](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) 
+  * [Good C programming habits](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
   * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-  * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) 
+  * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
   * [Stuff you need to Code Better!](http://codebetter.com)
-  * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) 
-  
+  * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
+
 ## DevOps ##
 [back to top](#readme)
 * [Awesome DevOps](https://github.com/joubertredrat/awesome-devops)
@@ -159,7 +159,11 @@
   * [Kaggle - Your Home for Data Science](https://www.kaggle.com/)
   * [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
   * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-  
+  * [Machine Learning for Beginners (Google video tutorials)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+  * [YouTube channel for Machine Learning & Data Science videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)
+  * [Free Udacity course on Machine Learning for beginners](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+  * [Intro to machine learning (Udacity video playlist)](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
+
 ## Python ##
 [back to top](#readme)
   * [Awesome Python](https://github.com/vinta/awesome-python)
@@ -167,7 +171,6 @@
   * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 
-  
 ## IOT ##
 [back to top](#readme)
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot)
@@ -203,8 +206,8 @@
 * [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 * [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 * [Algorithm design canvas](https://www.hiredintech.com/algorithm-design))
-* [Aptitude Questions and Answers](http://www.indiabix.com) 
-* [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) 
+* [Aptitude Questions and Answers](http://www.indiabix.com)
+* [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org)
 - [Student crowdsourced resources for any topic ](https://www.beehyve.io)
 * [Big collection of interview preparation links](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
 * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
@@ -212,15 +215,15 @@
 * [Bitwise tricks](https://gist.github.com/dideler/2365607)
 * [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
-* [Code Project](https://www.codeproject.com) 
+* [Code Project](https://www.codeproject.com)
 * [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 * [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 * [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 * [Delightful Puzzles](http://gurmeet.net/puzzles/)
-* [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) 
+* [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops)
 * [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [Freshers Interviews](http://placementsindia.blogspot.com)
-* [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) 
+* [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org)
 * [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 * [List of important questions for interview](https://github.com/odino/interviews)
 * [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
@@ -242,7 +245,7 @@
 * [Study sheet for Interview](https://github.com/kimberli/interviews)
 * [A large collection of coding interview problems](https://github.com/mission-peace/interview/wiki)
 * [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1)
-* [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) 
+* [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/)
 * [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
 * [Logic Puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/)
 * [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/)
@@ -269,7 +272,7 @@
 * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
 * [Artificial Neural Network in Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Deep Learning Book](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/)
-  
+
 ## Deep Vision ##
 [back to top](#readme)
 * [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -293,6 +296,8 @@
 * [Flowing Data](http://flowingdata.com)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
 * [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
+* [YouTube channel for Machine Learning & Data Science videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)
+* [Intro to Data  Science (Udacity video playlist)](https://www.youtube.com/watch?v=Cgm3r-G0cMQ&list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x)
 
 ## Blockchain Technology ##
 [back to top](#readme)
@@ -335,9 +340,9 @@
 ## Linux ##
 [back to top](#readme)
 * [Learning the shell.](http://linuxcommand.org)
-* [Linux Journey](https://linuxjourney.com) 
-* [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) 
-* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 
+* [Linux Journey](https://linuxjourney.com)
+* [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
+* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software)
 * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 
 ## Unix ##
@@ -345,7 +350,7 @@
 * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
-* [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) 
+* [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml)
 
 ## Git ##
 [back to top](#readme)
