@@ -11,6 +11,8 @@
 - [Algorithms](#algorithm)
 - [Amazon Web Services](#amazon-web-services)
 - [Android](#android)
+- [AngularJS](#angularjs)
+  - [Version 1.x](#version-1x)
 - [Bash](#bash)
 - [Best Practice](#best-practice)
   - [Coding Styles](#coding-styles)
@@ -83,6 +85,17 @@
 * [Small and Extensible Logger - Timber](https://github.com/JakeWharton/timber)
 * [Debugging platform for Android - Stetho](https://code.facebook.com/posts/393927910787513/stetho-a-new-debugging-platform-for-android/)
 * [Publish - Subscriber Style - EventBus](https://github.com/google/guava/wiki/EventBusExplained)
+
+## AngularJS ##
+[back to top](#readme)
+### Version 1.x ###
+* [Introduction](https://docs.angularjs.org/guide/introduction)
+* [The ng-book recipe](https://github.com/angularLovers/angularjs)
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [AngularJS Style Guide](https://github.com/toddmotto/angularjs-styleguide)
+* [Bunch of useful filters for AngularJS](https://github.com/a8m/angular-filter)
+* [Module that gives access to the browsers local storage](https://github.com/grevory/angular-local-storage)
+* [Angular UI Tree](https://github.com/angular-ui-tree/angular-ui-tree)
 
 ## Bash ##
 [back to top](#readme)
