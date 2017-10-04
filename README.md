@@ -17,7 +17,7 @@
   - [Design Patterns](#design-patterns)
 - [Blockchain Technology](#blockchain-technology)
 - [C](#c-language)
-- [Computer Graphics](#compueter-graphics)
+- [Computer Graphics](#computer-graphics)
 - [Deep Learning](#deep-learning)
 - [Data Science](#data-science)
 - [Deep Vision](#deep-vision)
@@ -60,6 +60,7 @@
 * [All Algorithms implemented in C](https://github.com/TheAlgorithms/C)
 * [All Algorithms implemented in C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 * [Algorithms and data structures in Swift](https://github.com/raywenderlich/swift-algorithm-club)
+* [The Algorithm Design Manual](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
 
 ## Amazon Web Services ##
 [back to top](#readme)
@@ -212,6 +213,7 @@
 [back to top](#readme)
 * [Vim tutorials](https://github.com/vim/vim/blob/master/runtime/tutor/tutor)
 * [Learn VIM from the browser](https://vimtutorplus.herokuapp.com/exercise/1)
+* [Atom tutorial](https://github.com/atom/atom)
 
 ## Git ##
 [back to top](#readme)
