@@ -1,13 +1,13 @@
 ﻿# Resources
 
-# Readme 
+# Readme
 | Python | Updated
 | :-: | :-:
 | :snake: | October 2, 2017
 | **Linux** | **Updated**
 | :penguin: | September 9, 2017
 
-## Contents ## 
+## Contents ##
 - [Algorithms](#algorithm)
 - [Amazon Web Services](#amazon-web-services)
 - [Android](#android)
@@ -52,7 +52,7 @@
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [Awesome Challenges](https://github.com/mauriciovieira/awesome-challenges)
-* [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) 
+* [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp)
 * [Mega Project List](https://github.com/karan/Projects)
 * [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
@@ -120,14 +120,14 @@
   [back to top](#readme)
   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
   * [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
-  * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) 
+  * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby)
   * [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
   * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1)
-  * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) 
+  * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml)
   * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
-  * [Good C programming habits](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) 
+  * [Good C programming habits](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
   * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-  * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) 
+  * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
   * [Stuff you need to Code Better!](http://codebetter.com)
   * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) 
 
@@ -187,7 +187,7 @@
   
 ## Deep Vision ##
 [back to top](#readme)
-* [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
+
 
 ## DevOps ##
 [back to top](#readme)
@@ -227,8 +227,8 @@
 * [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 * [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 * [Algorithm design canvas](https://www.hiredintech.com/algorithm-design))
-* [Aptitude Questions and Answers](http://www.indiabix.com) 
-* [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) 
+* [Aptitude Questions and Answers](http://www.indiabix.com)
+* [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org)
 - [Student crowdsourced resources for any topic ](https://www.beehyve.io)
 * [Big collection of interview preparation links](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
 * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
@@ -236,15 +236,15 @@
 * [Bitwise tricks](https://gist.github.com/dideler/2365607)
 * [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
-* [Code Project](https://www.codeproject.com) 
+* [Code Project](https://www.codeproject.com)
 * [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
 * [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 * [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 * [Delightful Puzzles](http://gurmeet.net/puzzles/)
-* [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) 
+* [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops)
 * [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [Freshers Interviews](http://placementsindia.blogspot.com)
-* [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) 
+* [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org)
 * [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 * [List of important questions for interview](https://github.com/odino/interviews)
 * [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
@@ -266,7 +266,7 @@
 * [Study sheet for Interview](https://github.com/kimberli/interviews)
 * [A large collection of coding interview problems](https://github.com/mission-peace/interview/wiki)
 * [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1)
-* [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) 
+* [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/)
 * [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
 * [Logic Puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/)
 * [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/)
@@ -400,3 +400,4 @@
 * [How to mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
 * [Beginners guide to css-selectors](https://css-tricks.com/how-css-selectors-work)
 * [Roadmap to becoming a web developer, what do I need to know?](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
+
