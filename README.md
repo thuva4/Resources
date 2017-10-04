@@ -48,6 +48,7 @@
   - [Vue.js](#vuejs)
 
 
+
 ## Algorithm ##
 [back to top](#readme)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -413,6 +414,7 @@
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
 * [Django For Beginners](https://djangoforbeginners.com/)
 * [A guide for web developers](https://www.w3schools.com/default.asp)
+* [Django Girls](https://djangogirls.org/)
 
 ### Vue.js ###
 * [Awesome Vue](https://github.com/vuejs/awesome-vue)
