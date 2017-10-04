@@ -196,6 +196,8 @@
 * [Awesome Dev Environment](https://github.com/jondot/awesome-devenv)
 * [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci)
 
+
+
 ## Editors ##
 [back to top](#readme)
 * [Vim tutorials](https://github.com/vim/vim/blob/master/runtime/tutor/tutor)
@@ -350,6 +352,8 @@
   * [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
   * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+  * [MITx - 6.00.1x - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+
 
 ## Ruby on Rails ##
 [back to top](#readme)
