@@ -412,6 +412,7 @@
 * [Head First Web Design](http://www.headfirstlabs.com/books/hfwd/)
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
 * [Django For Beginners](https://djangoforbeginners.com/)
+* [A guide for web developers](https://www.w3schools.com/default.asp)
 
 ### Vue.js ###
 * [Awesome Vue](https://github.com/vuejs/awesome-vue)
