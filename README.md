@@ -3,7 +3,7 @@
 # Readme
 | Python | Updated
 | :-: | :-:
-| :snake: | October 2, 2017
+| :snake: | October 4, 2017
 | **Linux** | **Updated**
 | :penguin: | September 9, 2017
 
@@ -377,10 +377,12 @@
 [back to top](#readme)
   * [Awesome Python](https://github.com/vinta/awesome-python)
   * [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+  * [Learn Python Hard Way](https://learnpythonthehardway.org/)
   * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
   * [MITx - 6.00.1x - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
   * [Codeacademy - Learn Python](https://www.codecademy.com/learn/learn-python)
+  * [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
 
 
 ## Ruby on Rails ##
