@@ -61,6 +61,7 @@
 * [All Algorithms implemented in C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 * [Algorithms and data structures in Swift](https://github.com/raywenderlich/swift-algorithm-club)
 * [The Algorithm Design Manual](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
+* [MIT Introduction to Algorithms-Fall 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 ## Amazon Web Services ##
 [back to top](#readme)
@@ -130,7 +131,7 @@
   * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
   * [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
   * [Stuff you need to Code Better!](http://codebetter.com)
-  * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) 
+  * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
 
 ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
@@ -147,14 +148,14 @@
 * [Bits on blocks | Thoughts on blockchain technology](https://bitsonblocks.net/)
 
 
-## C Language ## 
-  [back to top](#readme) 
+## C Language ##
+  [back to top](#readme)
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
 * [C Programming](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 * [C programming language Frequently Asked Questions](http://c-faq.com/index.html)
 * [Deep C](https://www.slideshare.net/olvemaudal/deep-c)
 * [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html)
-* [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) 
+* [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 * [All about C++](http://www.cplusplus.com/)
 * [Head First C](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf)
@@ -196,7 +197,7 @@
 * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
 * [Artificial Neural Network in Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Deep Learning Book](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/)
-  
+
 ## Deep Vision ##
 [back to top](#readme)
 
@@ -309,9 +310,9 @@
 ## Linux ##
 [back to top](#readme)
 * [Learning the shell.](http://linuxcommand.org)
-* [Linux Journey](https://linuxjourney.com) 
-* [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) 
-* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 
+* [Linux Journey](https://linuxjourney.com)
+* [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
+* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software)
 * [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 
 ## Machine Learning ##
@@ -327,7 +328,7 @@
   * [Kaggle - Your Home for Data Science](https://www.kaggle.com/)
   * [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
   * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-  
+
 ## Markdown ##
 [back to top](#readme)
 * [Markcown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -365,6 +366,7 @@
   * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
   * [MITx - 6.00.1x - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+  * [Codeacademy - Learn Python](https://www.codecademy.com/learn/learn-python)
 
 
 ## Ruby on Rails ##
@@ -399,7 +401,7 @@
 * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
-* [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) 
+* [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml)
 
 ## Web development ##
 [back to top](#readme)
@@ -417,4 +419,3 @@
 * [How to mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
 * [Beginners guide to css-selectors](https://css-tricks.com/how-css-selectors-work)
 * [Roadmap to becoming a web developer, what do I need to know?](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
-
