@@ -175,7 +175,7 @@
 * [Head First C](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf)
 
 ## Computer Vision ##
-
+[back to top](#readme)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Introduction to Computer Vision | by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 * [Computer Vision Resources](http://resources.visionbib.com/)
