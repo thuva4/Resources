@@ -347,6 +347,8 @@
   * [Kaggle - Your Home for Data Science](https://www.kaggle.com/)
   * [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
   * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+  * [Introductory course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+  * [Content by Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
 
 ## Markdown ##
 [back to top](#readme)
