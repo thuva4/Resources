@@ -214,7 +214,8 @@
 
 ## Deep Vision ##
 [back to top](#readme)
-
+* [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
+* [PyImageSearch](https://www.pyimagesearch.com)
 
 
 ## DevOps ##
