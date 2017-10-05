@@ -87,7 +87,7 @@
 * [Small and Extensible Logger - Timber](https://github.com/JakeWharton/timber)
 * [Debugging platform for Android - Stetho](https://code.facebook.com/posts/393927910787513/stetho-a-new-debugging-platform-for-android/)
 * [Publish - Subscriber Style - EventBus](https://github.com/google/guava/wiki/EventBusExplained)
-
+* [Professional Android Developer - galileox](https://www.edx.org/micromasters/galileox-professional-android-developer)
 ## AngularJS ##
 [back to top](#readme)
 ### Version 1.x ###
