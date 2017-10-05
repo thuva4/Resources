@@ -383,6 +383,9 @@
   * [MITx - 6.00.1x - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
   * [Codeacademy - Learn Python](https://www.codecademy.com/learn/learn-python)
   * [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
+  * [Python Application](https://pythonprogramming.net)
+  * [Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  * [Simple Python Projects](https://codeclubprojects.org/en-GB/python)
 
 
 ## Ruby on Rails ##
