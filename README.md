@@ -20,6 +20,7 @@
 - [Blockchain Technology](#blockchain-technology)
 - [C](#c-language)
 - [Computer Graphics](#computer-graphics)
+- [Computer Vision](#computer-vision)
 - [Deep Learning](#deep-learning)
 - [Data Science](#data-science)
 - [Deep Vision](#deep-vision)
@@ -27,7 +28,10 @@
 - [Editors](#editors)
 - [Git](#git)
 - [Go](#go-language)
-- [Internet Of Things](#iot)
+- [Internet of Things](#iot)
+- [Interview](#interview)
+  - [Coding Interview](#coding-interview)
+  - [Design Interview](#design-interview)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
@@ -41,12 +45,9 @@
 - [Ruby on Rails](#ruby-on-rails)
 - [SQL](#sql)
 - [Student Pack](#student-pack)
-  - [Interview](#interview)
-    - [Coding Interview](#coding-interview)
-    - [Design Interview](#design-interview)
-  - [Study plan](#study-plan)
+  - [Study Plan](#study-plan)
 - [Unix](#unix)
-- [Web development](#web-development)
+- [Web Development](#web-development)
   - [Vue.js](#vuejs)
 
 
@@ -161,7 +162,6 @@
 * How does the Blockchain Work? [Part 1](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093) [Part 2](https://medium.com/blockchain-review/blockchain-essentials-for-dummies-ba2d8851f1ca) [Part 3](https://medium.com/blockchain-review/what-blockchain-should-we-use-6ba9cca8df22) [Part 4](https://medium.com/blockchain-review/the-difference-between-a-private-public-consortium-blockchain-799ae7f022bc)
 * [Bits on blocks | Thoughts on blockchain technology](https://bitsonblocks.net/)
 
-
 ## C Language ##
   [back to top](#readme)
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
@@ -173,6 +173,12 @@
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 * [All about C++](http://www.cplusplus.com/)
 * [Head First C](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf)
+
+## Computer Vision ##
+
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Introduction to Computer Vision | by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+* [Computer Vision Resources](http://resources.visionbib.com/)
 
 ## Computer Graphics ##
 [back to top](#readme)
@@ -188,7 +194,6 @@
 * [Flowing Data](http://flowingdata.com)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
 * [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
-* [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
 * [Ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 * [Data Camp](https://www.datacamp.com/home)
@@ -217,7 +222,6 @@
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
 * [PyImageSearch](https://www.pyimagesearch.com)
 
-
 ## DevOps ##
 [back to top](#readme)
 * [Awesome DevOps](https://github.com/joubertredrat/awesome-devops)
@@ -245,13 +249,13 @@
 [back to top](#readme)
 * [Awesome Go](https://github.com/avelino/awesome-go)
 
-### Interview ###
+## Interview ##
 
-#### Coding Interview ####
+### Coding Interview ###
 * [A complete computer science study plan](https://github.com/jwasham/coding-interview-university#did-i-get-the-job)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
-#### Design Interview ####
+### Design Interview ###
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * [Big list of programming interview questions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
 * [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
@@ -312,7 +316,7 @@
 * [Why You Make Less Money](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 * [Logic puzzles and riddles](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml)
 
-## IOT ##
+## IoT ##
 [back to top](#readme)
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
@@ -388,12 +392,10 @@
   * [Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   * [Simple Python Projects](https://codeclubprojects.org/en-GB/python)
 
-
 ## Ruby on Rails ##
 [back to top](#readme)
   * [Rails Tutorial](https://www.railstutorial.org/book)
   * [Rails for Zombies](http://railsforzombies.org/)
-
 
 ## SQL ##
 [back to top](#readme)
@@ -410,7 +412,7 @@
 * [A list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
 * [Github Student Pack](https://education.github.com/pack)
 
-### Study plan ###
+### Study Plan ###
 * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
 * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
 * [A complete daily plan for studying to become a machine learning engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
