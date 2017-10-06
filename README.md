@@ -216,8 +216,10 @@
 * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
 * [Artificial Neural Network in Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Deep Learning Book](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Practical Deep Learning for Coders] (http://course.fast.ai)
 * [Cutting Edge Deep Learning for Coders] (http://course.fast.ai/part2.html)
+
 
 ## Deep Vision ##
 [back to top](#readme)
