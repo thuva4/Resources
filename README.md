@@ -148,6 +148,14 @@
   * [Stuff you need to Code Better!](http://codebetter.com)
   * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
 
+## Competitive Programming ##
+[back to top](#readme)
+* [Codeforce's Awesome List](http://codeforces.com/blog/entry/23054)
+* [A Handbook of Competitive Programming](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+* [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
+* [Topcoder's Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+* [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-1)
+
 ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
