@@ -217,6 +217,9 @@
 * [Artificial Neural Network in Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Deep Learning Book](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [Practical Deep Learning for Coders] (http://course.fast.ai)
+* [Cutting Edge Deep Learning for Coders] (http://course.fast.ai/part2.html)
+
 
 ## Deep Vision ##
 [back to top](#readme)
@@ -392,6 +395,9 @@
   * [Python Application](https://pythonprogramming.net)
   * [Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   * [Simple Python Projects](https://codeclubprojects.org/en-GB/python)
+  * [Python Fundamentals](https://pythonprogramming.net/python-fundamental-tutorials/)
+  * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1/)
+  * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2/)
 
 ## Ruby on Rails ##
 [back to top](#readme)
