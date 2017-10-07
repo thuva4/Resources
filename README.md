@@ -270,6 +270,14 @@
 * [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
 * [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 
+## HTML 5 ##
+* [w3schools](https://www.w3schools.com/html/html5_intro.asp)
+* [Tutorials Point](https://www.tutorialspoint.com/html5/)
+* [HTML 5](https://www.html-5-tutorial.com/)
+* [HTML 5 and CSS 3](http://www.html5andcss3.org/)
+* [HTML 5 Tutorial](https://www.tutorialrepublic.com/html-tutorial/)
+
+
 ## Interview ##
 
 ### Coding Interview ###
