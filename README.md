@@ -370,6 +370,11 @@
   * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
   * [Introductory course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * [Content by Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
+  * [MIT OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  * [Statistical ML](https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo)
+  * [HackerEarth Blog for More Resources](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
+  * [Even More Resources :)](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+  
 
 ## Markdown ##
 [back to top](#readme)
