@@ -28,6 +28,7 @@
 - [Editors](#editors)
 - [Git](#git)
 - [Go](#go-language)
+- [Haskell](#haskell)
 - [Internet of Things](#iot)
 - [Interview](#interview)
   - [Coding Interview](#coding-interview)
@@ -260,6 +261,12 @@
 ## Go Language ##
 [back to top](#readme)
 * [Awesome Go](https://github.com/avelino/awesome-go)
+
+## Haskell ##
+[back to top](#readme)
+* [Functors, Applicatives and Monads in Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
+* [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 
 ## Interview ##
 
