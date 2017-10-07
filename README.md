@@ -1,8 +1,10 @@
 ﻿# Resources
 
 # Readme
-| Python | Updated
+| Haskell | Updated
 | :-: | :-:
+| | October 6, 2017
+| **Python** | **Updated**
 | :snake: | October 4, 2017
 | **Linux** | **Updated**
 | :penguin: | September 9, 2017
