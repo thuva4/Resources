@@ -422,6 +422,7 @@
 [back to top](#readme)
   * [Rails Tutorial](https://www.railstutorial.org/book)
   * [Rails for Zombies](http://railsforzombies.org/)
+  * [Ruby on Rails: An Introduction](https://www.coursera.org/learn/ruby-on-rails-intro)
 
 ## SQL ##
 [back to top](#readme)
