@@ -15,6 +15,7 @@
 - [Android](#android)
 - [AngularJS](#angularjs)
   - [Version 1.x](#version-1x)
+- [Assembly](#assembly)
 - [Bash](#bash)
 - [Best Practice](#best-practice)
   - [Coding Styles](#coding-styles)
@@ -28,6 +29,7 @@
 - [Deep Vision](#deep-vision)
 - [DevOps](#devops)
 - [Editors](#editors)
+- [Exploitation](#exploitation)
 - [Git](#git)
 - [Go](#go-language)
 - [Haskell](#haskell)
@@ -45,6 +47,7 @@
   - [Tutorials](#tutorials)
 - [Programmer](#programmer)
 - [Python](#python)
+- [Reverse Engineering](#re)
 - [Ruby on Rails](#ruby-on-rails)
 - [SQL](#sql)
 - [Student Pack](#student-pack)
@@ -101,6 +104,13 @@
 * [Bunch of useful filters for AngularJS](https://github.com/a8m/angular-filter)
 * [Module that gives access to the browsers local storage](https://github.com/grevory/angular-local-storage)
 * [Angular UI Tree](https://github.com/angular-ui-tree/angular-ui-tree)
+
+## Assembly ##
+ [back to top](#readme)
+ * [Learn basics of assembly](http://www.tutorialspoint.com/assembly_programming/)
+ * [Intro to Intel x86](https://www.youtube.com/watch?v=H4Z0S9ZbC0g&list=PL038BE01D3BAEFDB0)
+ * [Intermediate Intel x86](https://www.youtube.com/watch?v=8b0wZhDvLCM&list=PL8F8D45D6C1FFD177)
+ * [Intro to ARM](https://www.youtube.com/watch?v=XojE13qeiTE&list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd)
 
 ## Bash ##
 [back to top](#readme)
@@ -249,6 +259,12 @@
 * [Vim tutorials](https://github.com/vim/vim/blob/master/runtime/tutor/tutor)
 * [Learn VIM from the browser](https://vimtutorplus.herokuapp.com/exercise/1)
 * [Atom tutorial](https://github.com/atom/atom)
+
+## Editors ##
+[back to top](#readme)
+* [Intro to binary exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+* [How to bypass ASLR](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
+* [Corelan exploitation tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 
 ## Git ##
 [back to top](#readme)
@@ -422,6 +438,13 @@
 [back to top](#readme)
   * [Rails Tutorial](https://www.railstutorial.org/book)
   * [Rails for Zombies](http://railsforzombies.org/)
+
+## RE ##
+[back to top](#readme)
+  * [Intro to Reverse Engineering](https://www.youtube.com/watch?v=byK0tXH5axQ&list=PL416CEDF4A931DB0D)
+  * [Malware Reverse Engineering](https://www.youtube.com/watch?v=LC81gbmTsiE&list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt)
+  * [How to find Rootkits](https://www.youtube.com/watch?v=ewNo_poX7bA&index=1&list=PLF58FB7BCB20ED11A)
+  * [Dynamic Malware Analysis](https://www.youtube.com/watch?v=XgtG9p_Pr9E&list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z)
 
 ## SQL ##
 [back to top](#readme)
