@@ -260,7 +260,7 @@
 * [Learn VIM from the browser](https://vimtutorplus.herokuapp.com/exercise/1)
 * [Atom tutorial](https://github.com/atom/atom)
 
-## Editors ##
+## Exploitation ##
 [back to top](#readme)
 * [Intro to binary exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 * [How to bypass ASLR](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
