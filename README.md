@@ -94,6 +94,10 @@
 * [Debugging platform for Android - Stetho](https://code.facebook.com/posts/393927910787513/stetho-a-new-debugging-platform-for-android/)
 * [Publish - Subscriber Style - EventBus](https://github.com/google/guava/wiki/EventBusExplained)
 * [Professional Android Developer - galileox](https://www.edx.org/micromasters/galileox-professional-android-developer)
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
+* [Common Design Patterns in Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
+* [How to master Android: What developers can learn from 21 apps](https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps)
+
 ## AngularJS ##
 [back to top](#readme)
 ### Version 1.x ###
