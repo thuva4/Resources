@@ -270,6 +270,14 @@
 * [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
 * [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 
+## HTML 5 ##
+* [w3schools](https://www.w3schools.com/html/html5_intro.asp)
+* [Tutorials Point](https://www.tutorialspoint.com/html5/)
+* [HTML 5](https://www.html-5-tutorial.com/)
+* [HTML 5 and CSS 3](http://www.html5andcss3.org/)
+* [HTML 5 Tutorial](https://www.tutorialrepublic.com/html-tutorial/)
+
+
 ## Interview ##
 
 ### Coding Interview ###
@@ -370,6 +378,11 @@
   * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
   * [Introductory course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * [Content by Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
+  * [MIT OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  * [Statistical ML](https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo)
+  * [HackerEarth Blog for More Resources](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
+  * [Even More Resources :)](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+  
 
 ## Markdown ##
 [back to top](#readme)
