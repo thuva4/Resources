@@ -402,7 +402,8 @@
   * [Statistical ML](https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo)
   * [HackerEarth Blog for More Resources](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
   * [Even More Resources :)](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
-  
+  * [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
+  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Markdown ##
 [back to top](#readme)
