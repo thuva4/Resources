@@ -85,6 +85,8 @@
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 * [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
 * [Android Developers Backstage Podcast](http://androidbackstage.blogspot.com/)
+* [Android simple guide](https://developer.android.com/guide/index.html)
+* [Android courses by Google](https://www.udacity.com/courses/android)
 * [Fragmented Podcast](http://fragmentedpodcast.com/)
 * [Fresco](https://github.com/facebook/fresco)
 * [Volley](https://developer.android.com/training/volley/index.html)
