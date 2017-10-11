@@ -1,9 +1,11 @@
 ﻿# Resources
 
 # Readme
-| Python | Updated
+| Haskell | Updated
 | :-: | :-:
-| :snake: | October 2, 2017
+| | October 6, 2017
+| **Python** | **Updated**
+| :snake: | October 4, 2017
 | **Linux** | **Updated**
 | :penguin: | September 9, 2017
 
@@ -11,6 +13,9 @@
 - [Algorithms](#algorithm)
 - [Amazon Web Services](#amazon-web-services)
 - [Android](#android)
+- [AngularJS](#angularjs)
+  - [Version 1.x](#version-1x)
+- [Assembly](#assembly)
 - [Bash](#bash)
 - [Best Practice](#best-practice)
   - [Coding Styles](#coding-styles)
@@ -18,14 +23,20 @@
 - [Blockchain Technology](#blockchain-technology)
 - [C](#c-language)
 - [Computer Graphics](#computer-graphics)
+- [Computer Vision](#computer-vision)
 - [Deep Learning](#deep-learning)
 - [Data Science](#data-science)
 - [Deep Vision](#deep-vision)
 - [DevOps](#devops)
 - [Editors](#editors)
+- [Exploitation](#exploitation)
 - [Git](#git)
 - [Go](#go-language)
-- [Internet Of Things](#iot)
+- [Haskell](#haskell)
+- [Internet of Things](#iot)
+- [Interview](#interview)
+  - [Coding Interview](#coding-interview)
+  - [Design Interview](#design-interview)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
@@ -36,16 +47,15 @@
   - [Tutorials](#tutorials)
 - [Programmer](#programmer)
 - [Python](#python)
+- [Reverse Engineering](#re)
 - [Ruby on Rails](#ruby-on-rails)
 - [SQL](#sql)
 - [Student Pack](#student-pack)
-  - [Interview](#interview)
-    - [Coding Interview](#coding-interview)
-    - [Design Interview](#design-interview)
-  - [Study plan](#study-plan)
+  - [Study Plan](#study-plan)
 - [Unix](#unix)
-- [Web development](#web-development)
+- [Web Development](#web-development)
   - [Vue.js](#vuejs)
+
 
 
 ## Algorithm ##
@@ -72,9 +82,16 @@
  [back to top](#readme)
 * [Awesome Android](https://github.com/yongjhih/awesome-android-awesomeness)
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+* [Ultimate Android Reference](https://github.com/aritraroy/UltimateAndroidReference)
+* [Agile Android Software Development Book](https://www.agiledroid.com/)
+* [Extensive Open-Source Guides for Android Developers](https://github.com/codepath/android_guides)
+* [Do's and Don'ts for Android development](https://github.com/futurice/android-best-practices)
+* [Collection of links for every Android developer](https://github.com/anirudh24seven/android-dev-readme)
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 * [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
 * [Android Developers Backstage Podcast](http://androidbackstage.blogspot.com/)
+* [Android simple guide](https://developer.android.com/guide/index.html)
+* [Android courses by Google](https://www.udacity.com/courses/android)
 * [Fragmented Podcast](http://fragmentedpodcast.com/)
 * [Fresco](https://github.com/facebook/fresco)
 * [Volley](https://developer.android.com/training/volley/index.html)
@@ -83,11 +100,34 @@
 * [Small and Extensible Logger - Timber](https://github.com/JakeWharton/timber)
 * [Debugging platform for Android - Stetho](https://code.facebook.com/posts/393927910787513/stetho-a-new-debugging-platform-for-android/)
 * [Publish - Subscriber Style - EventBus](https://github.com/google/guava/wiki/EventBusExplained)
+* [Professional Android Developer - galileox](https://www.edx.org/micromasters/galileox-professional-android-developer)
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
+* [Common Design Patterns in Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
+* [How to master Android: What developers can learn from 21 apps](https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps)
+
+## AngularJS ##
+[back to top](#readme)
+### Version 1.x ###
+* [Introduction](https://docs.angularjs.org/guide/introduction)
+* [The ng-book recipe](https://github.com/angularLovers/angularjs)
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [AngularJS Style Guide](https://github.com/toddmotto/angularjs-styleguide)
+* [Bunch of useful filters for AngularJS](https://github.com/a8m/angular-filter)
+* [Module that gives access to the browsers local storage](https://github.com/grevory/angular-local-storage)
+* [Angular UI Tree](https://github.com/angular-ui-tree/angular-ui-tree)
+
+## Assembly ##
+ [back to top](#readme)
+ * [Learn basics of assembly](http://www.tutorialspoint.com/assembly_programming/)
+ * [Intro to Intel x86](https://www.youtube.com/watch?v=H4Z0S9ZbC0g&list=PL038BE01D3BAEFDB0)
+ * [Intermediate Intel x86](https://www.youtube.com/watch?v=8b0wZhDvLCM&list=PL8F8D45D6C1FFD177)
+ * [Intro to ARM](https://www.youtube.com/watch?v=XojE13qeiTE&list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd)
 
 ## Bash ##
 [back to top](#readme)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 * [The Bash Guide](http://guide.bash.academy)
+* [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets)
 
 ## Best Practice ##
 [back to top](#readme)
@@ -133,6 +173,14 @@
   * [Stuff you need to Code Better!](http://codebetter.com)
   * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
 
+## Competitive Programming ##
+[back to top](#readme)
+* [Codeforce's Awesome List](http://codeforces.com/blog/entry/23054)
+* [A Handbook of Competitive Programming](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
+* [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
+* [Topcoder's Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+* [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-1)
+
 ### Design Patterns ###
   * [ Design patterns implemented in Java ](http://java-design-patterns.com/patterns/)
   * [Advanced C++ Features, Design Patterns, and Frameworks](http://www.cs.wustl.edu/~schmidt/PDF/pattern-examples4.pdf)
@@ -147,7 +195,6 @@
 * How does the Blockchain Work? [Part 1](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093) [Part 2](https://medium.com/blockchain-review/blockchain-essentials-for-dummies-ba2d8851f1ca) [Part 3](https://medium.com/blockchain-review/what-blockchain-should-we-use-6ba9cca8df22) [Part 4](https://medium.com/blockchain-review/the-difference-between-a-private-public-consortium-blockchain-799ae7f022bc)
 * [Bits on blocks | Thoughts on blockchain technology](https://bitsonblocks.net/)
 
-
 ## C Language ##
   [back to top](#readme)
 * [C Pointers in a nutshell](http://aticleworld.com/pointers-in-c/#.WWmawVI0rVU.facebook)
@@ -159,6 +206,12 @@
 * [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
 * [All about C++](http://www.cplusplus.com/)
 * [Head First C](http://www.mosaic-industries.com/embedded-systems/_media/c-ide-software-development/learning-c-programming-language/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf)
+
+## Computer Vision ##
+[back to top](#readme)
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Introduction to Computer Vision | by Georgia Tech](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+* [Computer Vision Resources](http://resources.visionbib.com/)
 
 ## Computer Graphics ##
 [back to top](#readme)
@@ -174,7 +227,6 @@
 * [Flowing Data](http://flowingdata.com)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100?l=UyhoTxWdB_3505050723)
 * [Python for Data Science - Cheatsheet](https://github.com/rabirajkhadka/cheatsheet/blob/master/PythonForDataScience.pdf)
-* [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
 * [Ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 * [Data Camp](https://www.datacamp.com/home)
@@ -197,11 +249,15 @@
 * [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
 * [Artificial Neural Network in Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Deep Learning Book](https://www.safaribooksonline.com/library/view/deep-learning/9781491924570/)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [Practical Deep Learning for Coders] (http://course.fast.ai)
+* [Cutting Edge Deep Learning for Coders] (http://course.fast.ai/part2.html)
+
 
 ## Deep Vision ##
 [back to top](#readme)
-
-
+* [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
+* [PyImageSearch](https://www.pyimagesearch.com)
 
 ## DevOps ##
 [back to top](#readme)
@@ -215,6 +271,12 @@
 * [Vim tutorials](https://github.com/vim/vim/blob/master/runtime/tutor/tutor)
 * [Learn VIM from the browser](https://vimtutorplus.herokuapp.com/exercise/1)
 * [Atom tutorial](https://github.com/atom/atom)
+
+## Exploitation ##
+[back to top](#readme)
+* [Intro to binary exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+* [How to bypass ASLR](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
+* [Corelan exploitation tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 
 ## Git ##
 [back to top](#readme)
@@ -230,13 +292,28 @@
 [back to top](#readme)
 * [Awesome Go](https://github.com/avelino/awesome-go)
 
-### Interview ###
+## Haskell ##
+[back to top](#readme)
+* [Functors, Applicatives and Monads in Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
+* [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 
-#### Coding Interview ####
+## HTML 5 ##
+* [w3schools](https://www.w3schools.com/html/html5_intro.asp)
+* [Tutorials Point](https://www.tutorialspoint.com/html5/)
+* [HTML 5](https://www.html-5-tutorial.com/)
+* [HTML 5 and CSS 3](http://www.html5andcss3.org/)
+* [HTML 5 Tutorial](https://www.tutorialrepublic.com/html-tutorial/)
+
+
+## Interview ##
+
+### Coding Interview ###
 * [A complete computer science study plan](https://github.com/jwasham/coding-interview-university#did-i-get-the-job)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)
 
-#### Design Interview ####
+### Design Interview ###
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * [Big list of programming interview questions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
 * [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
@@ -297,7 +374,7 @@
 * [Why You Make Less Money](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
 * [Logic puzzles and riddles](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml)
 
-## IOT ##
+## IoT ##
 [back to top](#readme)
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot)
 
@@ -328,6 +405,16 @@
   * [Kaggle - Your Home for Data Science](https://www.kaggle.com/)
   * [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
   * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+  * [Introductory course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+  * [Content by Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
+  * [MIT OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  * [Statistical ML](https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo)
+  * [HackerEarth Blog for More Resources](http://blog.hackerearth.com/13-free-training-courses-on-machine-learning-artificial-intelligence)
+  * [Even More Resources :)](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+  * [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
+  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+  * [TensorFlow Models](https://github.com/tensorflow/models)
+  * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 ## Markdown ##
 [back to top](#readme)
@@ -363,16 +450,31 @@
 [back to top](#readme)
   * [Awesome Python](https://github.com/vinta/awesome-python)
   * [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+  * [Learn Python Hard Way](https://learnpythonthehardway.org/)
   * [Python Guide](http://docs.python-guide.org/en/latest/)
   * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
   * [MITx - 6.00.1x - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
   * [Codeacademy - Learn Python](https://www.codecademy.com/learn/learn-python)
-
+  * [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
+  * [Python Application](https://pythonprogramming.net)
+  * [Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  * [Simple Python Projects](https://codeclubprojects.org/en-GB/python)
+  * [Python Fundamentals](https://pythonprogramming.net/python-fundamental-tutorials/)
+  * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1/)
+  * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2/)
 
 ## Ruby on Rails ##
 [back to top](#readme)
   * [Rails Tutorial](https://www.railstutorial.org/book)
+  * [Rails for Zombies](http://railsforzombies.org/)
+  * [Ruby on Rails: An Introduction](https://www.coursera.org/learn/ruby-on-rails-intro)
 
+## RE ##
+[back to top](#readme)
+  * [Intro to Reverse Engineering](https://www.youtube.com/watch?v=byK0tXH5axQ&list=PL416CEDF4A931DB0D)
+  * [Malware Reverse Engineering](https://www.youtube.com/watch?v=LC81gbmTsiE&list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt)
+  * [How to find Rootkits](https://www.youtube.com/watch?v=ewNo_poX7bA&index=1&list=PLF58FB7BCB20ED11A)
+  * [Dynamic Malware Analysis](https://www.youtube.com/watch?v=XgtG9p_Pr9E&list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z)
 
 ## SQL ##
 [back to top](#readme)
@@ -389,7 +491,7 @@
 * [A list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
 * [Github Student Pack](https://education.github.com/pack)
 
-### Study plan ###
+### Study Plan ###
 * [Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
 * [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
 * [A complete daily plan for studying to become a machine learning engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
@@ -413,6 +515,8 @@
 * [<head> cheatsheet](https://github.com/joshbuchea/HEAD)
 * [Django For Beginners](https://djangoforbeginners.com/)
 * [A guide for web developers](https://www.w3schools.com/default.asp)
+* [Django Girls](https://djangogirls.org/)
+* [Tango With Django](http://www.tangowithdjango.com/)
 
 ### Vue.js ###
 * [Awesome Vue](https://github.com/vuejs/awesome-vue)
