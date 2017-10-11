@@ -383,6 +383,7 @@
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript30](https://github.com/wesbos/JavaScript30)
 * [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
+* [Javascript Introduction w3cx](https://www.edx.org/course/javascript-introduction-w3cx-js-0x-0)
 
 ## Linux ##
 [back to top](#readme)
