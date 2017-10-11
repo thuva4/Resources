@@ -127,6 +127,7 @@
 [back to top](#readme)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 * [The Bash Guide](http://guide.bash.academy)
+* [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets)
 
 ## Best Practice ##
 [back to top](#readme)
@@ -310,6 +311,7 @@
 ### Coding Interview ###
 * [A complete computer science study plan](https://github.com/jwasham/coding-interview-university#did-i-get-the-job)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)
 
 ### Design Interview ###
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
@@ -411,6 +413,8 @@
   * [Even More Resources :)](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
   * [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+  * [TensorFlow Models](https://github.com/tensorflow/models)
+  * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 ## Markdown ##
 [back to top](#readme)
