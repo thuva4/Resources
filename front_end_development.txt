@@ -1,0 +1,13 @@
+// Here are some links to make you excel in HTML, CSS and JavaScript
+
+[HTML]
+https://learn.shayhowe.com/html-css/building-your-first-web-page/
+
+[CSS]
+http://learnlayout.com/
+
+[JS]
+https://javascript30.com/
+
+
+
