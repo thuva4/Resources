@@ -72,6 +72,7 @@
 * [Algorithms and data structures in Swift](https://github.com/raywenderlich/swift-algorithm-club)
 * [The Algorithm Design Manual](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
 * [MIT Introduction to Algorithms-Fall 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [Pattern-Problems] (https://github.com/thedeepanshujain/Pattern-Problems)
 
 ## Amazon Web Services ##
 [back to top](#readme)
