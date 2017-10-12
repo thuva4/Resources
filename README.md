@@ -72,6 +72,7 @@
 * [Algorithms and data structures in Swift](https://github.com/raywenderlich/swift-algorithm-club)
 * [The Algorithm Design Manual](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
 * [MIT Introduction to Algorithms-Fall 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [Pattern-Problems] (https://github.com/thedeepanshujain/Pattern-Problems)
 
 ## Amazon Web Services ##
 [back to top](#readme)
@@ -524,3 +525,6 @@
 * [How to mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
 * [Beginners guide to css-selectors](https://css-tricks.com/how-css-selectors-work)
 * [Roadmap to becoming a web developer, what do I need to know?](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
+
+### Corpus of Books ###
+* [All in one](https://github.com/InnovativeCoder/Essential_books)
