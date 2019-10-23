@@ -415,6 +415,12 @@
   * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   * [TensorFlow Models](https://github.com/tensorflow/models)
   * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+  * [Deeplearning Book by Ian Goodfellow](https://github.com/janishar/mit-deep-learning-book-pdf)
+  * [Pattern Recognition and Machine Learning by Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+  * [Introduction to Machine Learning for coders by Fast.ai](http://course18.fast.ai/ml)
+  * [Deep Learning Specialization by deeplearning.ai at coursera](https://www.coursera.org/specializations/deep-learning)
+  * [Google Developer's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+  * [Natural Language Processing with Deep Learning by Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 ## Markdown ##
 [back to top](#readme)
